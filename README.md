@@ -1,5 +1,6 @@
 # Description of Business System Summary:
- 
+
+
  ## Please note that all dataset are assumptions.
 
 This Project will explore hospitality and accommodation industry by creating database on student lodging information management system for a business (Campusstay solutions). A business that helps students solves accommodation issue while on campus. This business has four hostels for reservation by students. A functional database will help the business increase satisfaction of users & operational efficiency. This database will optimise important process such as booking, payment, check-in and checkout date etc. Based on the database interface, data generated from users can be used by the business to draw insight on user preferences, revenue & cashflow management, resources allocation, inventory management and business forecast. Creating a student lodging information management system involves structured classification process of the entities, attributes, relationships and the cardinality to properly illustrate the scheme and functioning of the system. The key entities considered for creating the database were seven which are: 
